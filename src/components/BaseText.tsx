@@ -27,6 +27,7 @@ const BaseText: React.FC<Props> = props => {
           fontSize: size ?? title ? 24 : 14,
           fontFamily: font ?? title ? fontFamilies.bold : fontFamilies.medium,
         },
+        styles,
       ]}>
       {children}
     </Text>
