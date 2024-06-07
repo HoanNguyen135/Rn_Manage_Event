@@ -5,11 +5,16 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 const LoginScreen = () => {
   return (
     <View>
-      <Text>LoginScreen</Text>
+      <Text
+        style={{
+          marginBottom: 100,
+        }}>
+        LoginScreen
+      </Text>
       <Button
         title="Login"
         onPress={async () => {
-          await AsyncStorage.setItem('accessToken', '');
+          await AsyncStorage.setItem('accessToken', 'hahaha');
         }}
       />
     </View>

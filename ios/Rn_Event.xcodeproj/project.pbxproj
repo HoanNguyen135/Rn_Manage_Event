@@ -13,8 +13,14 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		5130827F997C32C17ABF7E5D /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 062D1007B4949ABA64FF10A4 /* PrivacyInfo.xcprivacy */; };
+		5E3E0787A59D43BA957049AD /* AirbnbCereal_W_XBd.otf in Resources */ = {isa = PBXBuildFile; fileRef = 86614B3D9F8A485DB35F21A3 /* AirbnbCereal_W_XBd.otf */; };
+		618FF63B5F00459899552E26 /* AirbnbCereal_W_Bd.otf in Resources */ = {isa = PBXBuildFile; fileRef = C97BC9DD8CF8464980E0EF28 /* AirbnbCereal_W_Bd.otf */; };
 		7699B88040F8A987B510C191 /* libPods-Rn_Event-Rn_EventTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Rn_Event-Rn_EventTests.a */; };
+		7A7712820152445FAEF6AD2B /* AirbnbCereal_W_Md.otf in Resources */ = {isa = PBXBuildFile; fileRef = AC5E1AFE68BA42D39DFE259B /* AirbnbCereal_W_Md.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A0D49D814FB144EE9C96C712 /* AirbnbCereal_W_Lt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 55DF6D4EF9CF49C0B62A18C5 /* AirbnbCereal_W_Lt.otf */; };
+		AFF0A21C7CC04A01ADB6F8D0 /* AirbnbCereal_W_Bk.otf in Resources */ = {isa = PBXBuildFile; fileRef = E0AB6F2957A34D218472A933 /* AirbnbCereal_W_Bk.otf */; };
+		F1AFC6CECDE841C385929C68 /* AirbnbCereal_W_Blk.otf in Resources */ = {isa = PBXBuildFile; fileRef = E97C0BB3089C4349BB9C8D5C /* AirbnbCereal_W_Blk.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,11 +47,17 @@
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Rn_Event/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Rn_Event-Rn_EventTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Rn_Event-Rn_EventTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-Rn_Event.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rn_Event.debug.xcconfig"; path = "Target Support Files/Pods-Rn_Event/Pods-Rn_Event.debug.xcconfig"; sourceTree = "<group>"; };
+		55DF6D4EF9CF49C0B62A18C5 /* AirbnbCereal_W_Lt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_Lt.otf; path = ../assets/fonts/AirbnbCereal_W_Lt.otf; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Rn_Event.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rn_Event.release.xcconfig"; path = "Target Support Files/Pods-Rn_Event/Pods-Rn_Event.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Rn_Event-Rn_EventTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rn_Event-Rn_EventTests.debug.xcconfig"; path = "Target Support Files/Pods-Rn_Event-Rn_EventTests/Pods-Rn_Event-Rn_EventTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Rn_Event.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Rn_Event.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Rn_Event/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86614B3D9F8A485DB35F21A3 /* AirbnbCereal_W_XBd.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_XBd.otf; path = ../assets/fonts/AirbnbCereal_W_XBd.otf; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Rn_Event-Rn_EventTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rn_Event-Rn_EventTests.release.xcconfig"; path = "Target Support Files/Pods-Rn_Event-Rn_EventTests/Pods-Rn_Event-Rn_EventTests.release.xcconfig"; sourceTree = "<group>"; };
+		AC5E1AFE68BA42D39DFE259B /* AirbnbCereal_W_Md.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_Md.otf; path = ../assets/fonts/AirbnbCereal_W_Md.otf; sourceTree = "<group>"; };
+		C97BC9DD8CF8464980E0EF28 /* AirbnbCereal_W_Bd.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_Bd.otf; path = ../assets/fonts/AirbnbCereal_W_Bd.otf; sourceTree = "<group>"; };
+		E0AB6F2957A34D218472A933 /* AirbnbCereal_W_Bk.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_Bk.otf; path = ../assets/fonts/AirbnbCereal_W_Bk.otf; sourceTree = "<group>"; };
+		E97C0BB3089C4349BB9C8D5C /* AirbnbCereal_W_Blk.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AirbnbCereal_W_Blk.otf; path = ../assets/fonts/AirbnbCereal_W_Blk.otf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -127,6 +139,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A39B83CB3CC94F228E9B4D1B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -140,6 +153,20 @@
 				00E356EE1AD99517003FC87E /* Rn_EventTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A39B83CB3CC94F228E9B4D1B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C97BC9DD8CF8464980E0EF28 /* AirbnbCereal_W_Bd.otf */,
+				E0AB6F2957A34D218472A933 /* AirbnbCereal_W_Bk.otf */,
+				E97C0BB3089C4349BB9C8D5C /* AirbnbCereal_W_Blk.otf */,
+				55DF6D4EF9CF49C0B62A18C5 /* AirbnbCereal_W_Lt.otf */,
+				AC5E1AFE68BA42D39DFE259B /* AirbnbCereal_W_Md.otf */,
+				86614B3D9F8A485DB35F21A3 /* AirbnbCereal_W_XBd.otf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -249,6 +276,12 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				5130827F997C32C17ABF7E5D /* PrivacyInfo.xcprivacy in Resources */,
+				618FF63B5F00459899552E26 /* AirbnbCereal_W_Bd.otf in Resources */,
+				AFF0A21C7CC04A01ADB6F8D0 /* AirbnbCereal_W_Bk.otf in Resources */,
+				F1AFC6CECDE841C385929C68 /* AirbnbCereal_W_Blk.otf in Resources */,
+				A0D49D814FB144EE9C96C712 /* AirbnbCereal_W_Lt.otf in Resources */,
+				7A7712820152445FAEF6AD2B /* AirbnbCereal_W_Md.otf in Resources */,
+				5E3E0787A59D43BA957049AD /* AirbnbCereal_W_XBd.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

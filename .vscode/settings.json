@@ -1,0 +1,7 @@
+{
+  "i18n-ally.localesPaths": "src/locales/languages",
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.displayLanguage": "vi",
+  "i18n-ally.sourceLanguage": "vi",
+  "i18next.i18nPaths": "/Users/mac/Desktop/Rn_Event/src/locales,/Users/mac/Desktop/Rn_Event/ios/Pods/RCT-Folly/folly/lang,/Users/mac/Desktop/Rn_Event/ios/Pods/boost/boost/locale,/Users/mac/Desktop/Rn_Event/ios/Pods/Headers/Private/RCT-Folly/folly/lang,/Users/mac/Desktop/Rn_Event/ios/Pods/Headers/Public/RCT-Folly/folly/lang,/Users/mac/Desktop/Rn_Event/src/locales/languages"
+}

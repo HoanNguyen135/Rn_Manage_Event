@@ -5,13 +5,14 @@ import AuthNavigator from './src/navigators/AuthNavigator';
 import {NavigationContainer} from '@react-navigation/native';
 import {useAsyncStorage} from '@react-native-async-storage/async-storage';
 import MainNavigator from './src/navigators/MainNavigator';
+import {navigationRef} from './src/navigators';
 
 const App = () => {
   const [isShowSplash, setIsShowSplash] = useState(true);
 
   const [accessToken, setAccessToken] = useState('');
 
-  const {getItem, setItem} = useAsyncStorage('assetToken');
+  const {getItem, setItem} = useAsyncStorage('accessToken');
 
   useEffect(() => {
     const timeout = setTimeout(() => {
@@ -41,7 +42,7 @@ const App = () => {
       {isShowSplash ? (
         <SplashScreen />
       ) : (
-        <NavigationContainer>
+        <NavigationContainer ref={navigationRef}>
           {accessToken ? <MainNavigator /> : <AuthNavigator />}
         </NavigationContainer>
       )}
